@@ -1,0 +1,24 @@
+body{
+   margin: 0;
+}
+
+h1{
+    padding: 10px;
+}
+
+header{
+ height:500px;/*высота блока*/
+ background-color:rgb(255, 255, 255);/*цвет фона*/
+text-align: center;
+font-size: 30px;
+}
+main{
+background-image:url(https://shapka-youtube.ru/wp-content/uploads/2022/11/ava-s-nadpisyu-abonent-nedostupen.jpg) ;  
+background-size: 50%()
+background-position: bottom;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer{
+
+}
